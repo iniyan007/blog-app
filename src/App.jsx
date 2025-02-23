@@ -11,7 +11,7 @@ const initialPosts = [
     id: 1,
     title: "Getting Started with React",
     content:
-      "React is a popular JavaScript library for building user interfaces...",
+      "React is a library for building web applications using JavaScript...",
     author: "John Doe",
     date: "2024-02-14",
     likes: 0,
